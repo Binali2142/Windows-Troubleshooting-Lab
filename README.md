@@ -34,12 +34,7 @@ Example from Case 06 (Network Fixed):
 - Using built in Windows tools (CMD, Device Manager, Event Viewer)  
 - Clear, structured technical documentation  
 - Real world help desk simulation
-
-
-## Project Structure
-Each folder contains:
-- `caseXX.md`: Documentation  
-- `/screenshots`: Before & after images  
+  
 
 
 ## Connect with Me
